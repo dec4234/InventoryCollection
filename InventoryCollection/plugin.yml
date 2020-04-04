@@ -1,5 +1,6 @@
 name: InventoryCollection
 author: dec4234
-version: 1.0
+description: Automatically put block drops into a user's inventory
+version: 1.1
 api-version: 1.13
 main: invSrc.InvMain
